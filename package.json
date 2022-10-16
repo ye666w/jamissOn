@@ -1,0 +1,26 @@
+{
+  "name": "jamisson",
+  "version": "1.0.0",
+  "description": "Bot for recognizing audiomessages in Telegram based on the Yandex SpeechKit",
+  "main": "jamisson.js",
+  "type": "module",
+  "scripts": {
+    "start": "forever start jamisson.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ye6w/jamisson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ye6w/jamisson/issues"
+  },
+  "homepage": "https://gitlab.com/ye6w/jamisson#readme",
+  "dependencies": {
+    "eslint": "^8.25.0",
+    "husky": "^8.0.1",
+    "node-fetch": "^3.2.10",
+    "telegraf": "^4.10.0"
+  }
+}
