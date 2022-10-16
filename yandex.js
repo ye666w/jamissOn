@@ -47,7 +47,8 @@ const getBearerToken = async () => {
 	const token = await fetch(
 		'https://iam.api.cloud.yandex.net/iam/v1/tokens', {
 			method: 'POST',
-			body: bodyJson}
+			body: bodyJson
+		}
 	)
 
 	const tokenJson = await token.json()
