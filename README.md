@@ -12,9 +12,9 @@ export const TG_BOT_TOKEN = ''
 export const YANDEX_FOLDER_ID = ''
 export const YANDEX_TOKEN = ''
 ```
-TG_BOT_TOKEN = https://core.telegram.org/bots/features#botfather
-YC_FOLDER_ID = https://cloud.yandex.com/en/docs/resource-manager/operations/folder/get-id
-YANDEX_TOKEN = https://cloud.yandex.ru/docs/iam/operations/iam-token/create
+TG_BOT_TOKEN - https://core.telegram.org/bots/features#botfather  
+YC_FOLDER_ID - https://cloud.yandex.com/en/docs/resource-manager/operations/folder/get-id  
+YANDEX_TOKEN - https://cloud.yandex.ru/docs/iam/operations/iam-token/create  
 
 
 ### Start:
